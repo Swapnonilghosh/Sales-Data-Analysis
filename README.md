@@ -58,7 +58,7 @@ All analysis is done through raw SQL and written in modular scripts, structured 
 
 ## 📁 Repository Structure
 ```plaintext
-data-warehouse-project/
+Sales-Data-Analysis/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
