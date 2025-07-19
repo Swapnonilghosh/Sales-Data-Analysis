@@ -15,9 +15,10 @@ All logic is written in modular SQL scripts organized by purpose, making the pip
 ---
 
 # ✨ Why This Project Matters
-•	Demonstrates end-to-end analytics from raw data to business-ready dashboards
-•	Uses standard tools and scripts for reproducibility and real-world applicability
-•	Delivers insights supporting sales strategy, upsell opportunities, and customer focus
+
+-	Demonstrates end-to-end analytics from raw data to business-ready dashboards
+-	Uses standard tools and scripts for reproducibility and real-world applicability
+-	Delivers insights supporting sales strategy, upsell opportunities, and customer focus
  
 ---
 
