@@ -87,3 +87,54 @@ data-warehouse-project/
 └── LICENSE                             # License information (MIT)
 ```
 ---
+## ⚙️ Tech Stack
+
+This project is built entirely on SQL-based technologies and leverages industry-standard practices in data warehousing and analytics.
+
+#### Core Tools & Platforms
+
+- **SQL Server (SSMS):**
+  - Used to create and manage the entire data warehouse.
+  - Handles raw data ingestion, transformation pipelines, schema modeling, and analytical queries.
+
+- **T-SQL (Transact-SQL):**
+  - The primary language for data manipulation, transformation logic, and analytical computation.
+  - Used for writing all ETL scripts and advanced analysis queries.
+
+- **CSV Files (ERP and CRM):**
+  - Flat files that serve as source systems for the warehouse.
+  - Contain structured sales, customer, and product data.
+
+- **draw.io (Diagrams):**
+  - Used to design data flow diagrams, architecture blueprints, and entity-relationship models.
+  - Helps document and visualize the data pipeline.
+
+- **Markdown / GitHub:**
+  - All documentation is written in Markdown for easy viewing.
+  - Repository is organized with clear folder structures and script segregation.
+
+#### Optional Tools (Not included in this project but compatible):
+
+- **Power BI / Tableau / Excel:**  
+  - The gold layer is designed to plug into any BI tool for dashboards and reports.
+  - Dimensional modeling ensures compatibility with self-service analytics platforms.
+
+
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+---
+
+## 🙋‍♂️ About Me
+
+Hi, I’m **Swapnonil Ghosh**, a final-year ECE undergraduate at NIT Agartala with a passion for tech and problem-solving, currently exploring data analytics.  
+Always eager to learn, build, and turn data into decisions.
+
+Let’s stay in touch! Feel free to connect with me here:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnonilg/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swapno___/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Swapnonil___)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnonilghosh03@gmail.com)
